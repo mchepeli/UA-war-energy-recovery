@@ -10,7 +10,7 @@ The following steps need to be implemented assuming that the software referenced
 which can be started by opening the "VTRUN_N_BLS_M0LSEA-v05.CMD" file.
 
 3. Folder "Gams_Wrk_W&W2_M0LSEA-v05" contains all files neccesary to run the 
-past-war baseline Reference 1 and Reference 2 scenarios, as well as mitigation pathways. The latter can be done by opening the corresponding "VTRUN_*_M0LSEA-v05.CMD" file.
+past-war baseline and mitigation scenarios. The latter can be done by opening the corresponding "VTRUN_*_M0LSEA-v05.CMD" file.
 
 4. All calculations are performed with author's original cplex and control panel setup options regardless of user's current ones. 
 VEDA_FE doesn't need to be launched.
